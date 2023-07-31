@@ -1,0 +1,15 @@
+iso_paths = "[SAN01-DS01] ISO/CentOS-7-x86_64-DVD-2207-02.iso"
+iso_urls = "iso/CentOS-7-x86_64-DVD-2207-02.iso"
+vm-cpu-num = "4"
+vm-disk-size = "50000"
+vm-mem-size = "4096"
+vm_name = "centos7-template"
+#cluster = 
+#datacenter = 
+#datastore = 
+#network = 
+#password = 
+#username = 
+#vcenter_server = 
+#ssh_username = 
+#ssh_password = 
